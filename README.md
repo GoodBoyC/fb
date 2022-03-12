@@ -20,10 +20,13 @@ pip install requests bs4 futures
 pip install cython
 
 pip install requests bs4 futures cython
+````
+## INSTALL
+````bash
 
-rm -rf XCARET
+rm -rf fb
 
-git clone https://github.com/Chigozieworldwide/XCARET 
+git clone https://github.com/GoodboyC/fb
 
 ````
 
@@ -34,9 +37,9 @@ If everything is installed, all you have to do is run the script by typing the c
 
 ````bash
 
-cd $HOME/XCARET
+cd $HOME/fb
 
-python XCARET.py
+python chinda
 
 ````
 
@@ -44,7 +47,7 @@ To update the script / get the latest updates. Type the command below:
 
 ````
 
-cd $HOME/XCARET
+cd $HOME/fb
 
 git pull
 
