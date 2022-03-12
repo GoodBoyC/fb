@@ -56,4 +56,4 @@ git pull
 If you can't use this script or there is a bug in the script, please contact me
 
 #### contact me:
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348069472717?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2349067338953?text=Hello_bro)
